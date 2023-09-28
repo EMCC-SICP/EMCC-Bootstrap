@@ -14,6 +14,9 @@ pip install -r requirements3-10.txt
 ```
 pip install -r requirements.txt
 ```
+```
+PATH=$PATH:~/.local/bin/
+```
 
 ## Instrucciones
 
